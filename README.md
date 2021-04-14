@@ -1,2 +1,1 @@
-# Web-Scraping-Project
-Web Scraping Project
+Web Scraping project which returns the price of dish you wish to order from a restaurant and then goes to google map and tells you the the time required to travel from your location to the restaurant in case you wish to travel and tells you the price in both the cases.
